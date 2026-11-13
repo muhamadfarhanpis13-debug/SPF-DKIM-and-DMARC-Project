@@ -1,0 +1,201 @@
+domain,sector,mx_hosts,mx_provider,spf_present,spf_valid,spf_lookup_count,spf_has_plus_all,dkim_status,dkim_selector_found,dmarc_present,dmarc_policy,dmarc_subdomain_policy,maturity_level,maturity_name
+kemenkeu.go.id,government,kemenkeu-go-id.mail.protection.outlook.com,Microsoft 365,True,True,4,False,Confirmed,selector1,True,none,,3,Authenticated
+kemendagri.go.id,government,antispam.kemendagri.go.id; reptor.kemendagri.go.id,Unidentified / Self-hosted,True,True,2,False,Confirmed,default,True,quarantine,quarantine,4,Enforced
+kemlu.go.id,government,mx3.kemlu.go.id,Unidentified / Self-hosted,True,True,0,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+kemenag.go.id,government,smtp2.kemenag.go.id,Unidentified / Self-hosted,True,True,2,False,Confirmed,google,True,quarantine,,4,Enforced
+kemkes.go.id,government,childone-mta.kemkes.go.id; master-mta.kemkes.go.id,Unidentified / Self-hosted,True,True,6,False,Confirmed,mail,True,quarantine,quarantine,4,Enforced
+kemnaker.go.id,government,mx2.kemnaker.go.id; mx4.kemnaker.go.id,Unidentified / Self-hosted,True,True,4,False,Inconclusive,,True,none,,3,Authenticated
+kemensos.go.id,government,smail.kemsos.net; mta.kemsos.net,Unidentified / Self-hosted,True,False,13,False,Confirmed,s1,True,none,none,3,Authenticated
+kemenperin.go.id,government,mail.kemenperin.go.id,Unidentified / Self-hosted,True,True,4,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+kemendag.go.id,government,smtp.kemendag.go.id; smtp1.kemendag.go.id; smtp2.kemendag.go.id; kemendag-go-id.mail.protection.outlook.com,Microsoft 365,True,True,2,False,Confirmed,default,False,,,2,Partial
+kemenkumham.go.id,government,mail.kemenkumham.go.id,Unidentified / Self-hosted,True,True,4,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+kkp.go.id,government,mail.kkp.go.id,Unidentified / Self-hosted,True,True,4,False,Inconclusive,,True,quarantine,,3,Authenticated
+esdm.go.id,government,mxa-00984701.gslb.pphosted.com; mxb-00984701.gslb.pphosted.com,Proofpoint (hosted),True,True,2,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+pu.go.id,government,pu-go-id.mail.protection.outlook.com,Microsoft 365,True,True,4,False,Confirmed,google,True,quarantine,,4,Enforced
+bps.go.id,government,dessy.bps.go.id; mickey.bps.go.id,Unidentified / Self-hosted,True,True,0,False,Inconclusive,,True,reject,,3,Authenticated
+bpk.go.id,government,bpk-go-id.mail.protection.outlook.com,Microsoft 365,True,True,3,False,Confirmed,selector1,True,reject,,5,Strong Enforcement
+kpk.go.id,government,mx1-mail.kpk.go.id; mx2-mail.kpk.go.id,Unidentified / Self-hosted,True,True,3,False,Confirmed,selector1,True,quarantine,reject,4,Enforced
+kpu.go.id,government,mx1.kpu.go.id; mx2.kpu.go.id; proxy2.kpu.go.id,Unidentified / Self-hosted,True,True,3,False,Confirmed,mail,True,quarantine,none,4,Enforced
+bssn.go.id,government,mail3.bssn.go.id; mail2.bssn.go.id; mail.bssn.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,s1,True,quarantine,quarantine,4,Enforced
+bnpb.go.id,government,mail.bnpb.go.id; mail.bnpb.go.id,Unidentified / Self-hosted,True,True,6,False,Confirmed,mail,True,reject,,5,Strong Enforcement
+bnn.go.id,government,mx2.bnn.go.id,Unidentified / Self-hosted,True,True,2,False,Inconclusive,,True,reject,,3,Authenticated
+bkn.go.id,government,bkn-go-id.p10.mxthunder.com; bkn-go-id.p20.mxthunder.net; bkn-go-id.p30.mxthunder.net; bkn-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,True,5,False,Confirmed,s1,True,reject,,5,Strong Enforcement
+anri.go.id,government,esa1.sonicwall.id,Unidentified / Self-hosted,True,True,2,False,Inconclusive,,True,reject,reject,3,Authenticated
+bappenas.go.id,government,andromeda.bappenas.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,selector1,True,none,,3,Authenticated
+brin.go.id,government,mxcloud.rekha.co.id; mxcloud-p10.rekha.co.id; mxcloud-p20.rekha.co.id,Unidentified / Self-hosted,True,True,9,False,Confirmed,mail,True,none,none,3,Authenticated
+bkpm.go.id,government,bkpm-go-id.mail.protection.outlook.com,Microsoft 365,True,True,2,False,Confirmed,s1,True,none,,3,Authenticated
+lan.go.id,government,lan-go-id.mail.protection.outlook.com; mail.lan.go.id,Unidentified / Self-hosted,True,True,1,False,Confirmed,dkim,True,quarantine,quarantine,4,Enforced
+setkab.go.id,government,,No MX / Unidentified,False,False,,False,Inconclusive,,False,,,0,Unprotected
+dpr.go.id,government,dpr-go-id-1.fortimailcloud.com; dpr-go-id-2.fortimailcloud.com,Unidentified / Self-hosted,True,True,3,False,Confirmed,selector1,True,none,,3,Authenticated
+mahkamahagung.go.id,government,antispam.mahkamahagung.go.id; mail.mahkamahagung.go.id; vmail.mahkamahagung.go.id,Unidentified / Self-hosted,True,True,6,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+komnasham.go.id,government,komnasham-go-id.p10.mxthunder.com; komnasham-go-id.p20.mxthunder.net; komnasham-go-id.p30.mxthunder.net; komnasham-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,False,11,False,Inconclusive,,True,none,,3,Authenticated
+jakarta.go.id,government,mail2.jakarta.go.id; mail3.jakarta.go.id,Unidentified / Self-hosted,True,True,4,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+jabarprov.go.id,government,mxrelay.jabarprov.go.id,Unidentified / Self-hosted,True,False,13,False,Inconclusive,,True,reject,,3,Authenticated
+jatengprov.go.id,government,mx1.jatengprov.go.id; mx2.jatengprov.go.id,Unidentified / Self-hosted,True,True,5,False,Confirmed,s1,True,reject,quarantine,5,Strong Enforcement
+jatimprov.go.id,government,mail.jatimprov.go.id,Unidentified / Self-hosted,True,True,8,False,Confirmed,selector1,True,quarantine,quarantine,4,Enforced
+jogjaprov.go.id,government,jogjaprov-go-id.p10.mxthunder.com; jogjaprov-go-id.p20.mxthunder.net; jogjaprov-go-id.p30.mxthunder.net; jogjaprov-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,True,6,False,Confirmed,s1,True,quarantine,,4,Enforced
+bantenprov.go.id,government,mxgate-1.bantenprov.go.id; mxgate-2.bantenprov.go.id,Unidentified / Self-hosted,True,True,7,False,Confirmed,default,True,quarantine,quarantine,4,Enforced
+baliprov.go.id,government,mx-1.mail.go.id; mx-2.mail.go.id; mx-3.mail.go.id; mx-4.mail.go.id,Unidentified / Self-hosted,True,True,2,False,Inconclusive,,True,reject,,3,Authenticated
+sumutprov.go.id,government,sumutprov-go-id.p10.mxthunder.com; sumutprov-go-id.p20.mxthunder.net; sumutprov-go-id.p30.mxthunder.net; sumutprov-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,True,3,False,Confirmed,mail,True,none,,3,Authenticated
+sumbarprov.go.id,government,mx-1.mail.go.id; mx-2.mail.go.id; mx-3.mail.go.id; mx-4.mail.go.id; mx-5.mail.go.id,Unidentified / Self-hosted,True,True,4,False,Inconclusive,,True,none,,3,Authenticated
+riau.go.id,government,mail.riau.go.id,Unidentified / Self-hosted,True,True,1,False,Inconclusive,,True,quarantine,,3,Authenticated
+banjarnegarakab.go.id,government,mail.banjarnegarakab.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,quarantine,,4,Enforced
+banyumaskab.go.id,government,mail.banyumaskab.go.id,Unidentified / Self-hosted,True,True,8,False,Inconclusive,,True,none,none,3,Authenticated
+batangkab.go.id,government,batangkab-go-id.p10.mxthunder.com; batangkab-go-id.p20.mxthunder.net; batangkab-go-id.p30.mxthunder.net; batangkab-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,none,,3,Authenticated
+blorakab.go.id,government,_dc-mx.c920190706fe.blorakab.go.id,Unidentified / Self-hosted,True,True,3,False,Inconclusive,,True,quarantine,,3,Authenticated
+boyolali.go.id,government,mx-1.mail.go.id; mx-2.mail.go.id; mx-3.mail.go.id; mx-4.mail.go.id,Unidentified / Self-hosted,True,True,4,False,Confirmed,default,True,quarantine,,4,Enforced
+brebeskab.go.id,government,mail.brebeskab.go.id,Unidentified / Self-hosted,True,True,1,False,Confirmed,dkim,True,quarantine,,4,Enforced
+cilacapkab.go.id,government,mx1.cilacapkab.go.id,Unidentified / Self-hosted,True,True,1,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+demakkab.go.id,government,sadewanew.jatengprov.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,dkim,True,reject,quarantine,5,Strong Enforcement
+grobogan.go.id,government,mail.grobogan.go.id,Unidentified / Self-hosted,True,True,2,False,Confirmed,default,False,,,2,Partial
+jepara.go.id,government,mail.jepara.go.id,Unidentified / Self-hosted,True,True,1,False,Confirmed,dkim,True,reject,,5,Strong Enforcement
+karanganyarkab.go.id,government,pmg.karanganyarkab.go.id,Unidentified / Self-hosted,True,True,2,False,Inconclusive,,True,reject,reject,3,Authenticated
+kebumenkab.go.id,government,email.kebumenkab.go.id; mail.kebumenkab.go.id; smtp.kebumenkab.go.id; webmail.kebumenkab.go.id,Unidentified / Self-hosted,True,True,6,False,Inconclusive,,True,reject,reject,3,Authenticated
+kendalkab.go.id,government,mx.spamexperts.com; fallbackmx.spamexperts.eu; lastmx.spamexperts.net,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,quarantine,,4,Enforced
+klaten.go.id,government,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,False,False,,False,Not Confirmed,,False,,,0,Unprotected
+kuduskab.go.id,government,mt04.kuduskab.go.id; mt01.kuduskab.go.id; mt02.kuduskab.go.id,Unidentified / Self-hosted,True,True,1,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+patikab.go.id,government,patikab-go-id.p10.mxthunder.com; patikab-go-id.p20.mxthunder.net; patikab-go-id.p30.mxthunder.net; patikab-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,True,8,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+pekalongankab.go.id,government,mail.pekalongankab.go.id; mx.pekalongankab.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,quarantine,,4,Enforced
+pemalangkab.go.id,government,mail3.pemalangkab.go.id,Unidentified / Self-hosted,True,True,1,False,Confirmed,dkim,True,reject,,5,Strong Enforcement
+purbalinggakab.go.id,government,mail.purbalinggakab.go.id,Unidentified / Self-hosted,True,True,1,False,Confirmed,default,True,reject,quarantine,5,Strong Enforcement
+purworejokab.go.id,government,mail.purworejokab.go.id; mail2.purworejokab.go.id; gmail.purworejokab.go.id; email.purworejokab.go.id,Unidentified / Self-hosted,True,True,0,False,Inconclusive,,True,quarantine,reject,3,Authenticated
+rembangkab.go.id,government,mx-1.mail.go.id; mx-2.mail.go.id; mx-3.mail.go.id; mx-4.mail.go.id; narada.mail.go.id; yamadipati.mail.go.id,Unidentified / Self-hosted,True,True,4,False,Inconclusive,,True,none,,3,Authenticated
+semarangkab.go.id,government,semarangkab.go.id,Unidentified / Self-hosted,True,True,2,False,Confirmed,default,False,,,2,Partial
+sragenkab.go.id,government,,No MX / Unidentified,True,True,2,False,Inconclusive,,True,none,,3,Authenticated
+sukoharjokab.go.id,government,sukoharjokab-go-id.p10.mxthunder.com; sukoharjokab-go-id.p20.mxthunder.net; sukoharjokab-go-id.p30.mxthunder.net; sukoharjokab-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,False,,,2,Partial
+tegalkab.go.id,government,m014.dapurhosting.com,Unidentified / Self-hosted,True,True,3,False,Inconclusive,,False,,,1,Basic
+temanggungkab.go.id,government,mx1.vimanamail.id; mx2.vimanamail.id,Unidentified / Self-hosted,True,True,1,False,Confirmed,default,True,quarantine,,4,Enforced
+wonogirikab.go.id,government,pmg.desnet.online; _dc-mx.bf1f8c361798.wonogirikab.go.id,Unidentified / Self-hosted,False,False,,False,Confirmed,default,True,reject,reject,2,Partial
+wonosobokab.go.id,government,mx.spamexperts.com; fallbackmx.spamexperts.eu; lastmx.spamexperts.net,Unidentified / Self-hosted,True,True,1,False,Confirmed,default,True,none,,3,Authenticated
+magelangkota.go.id,government,mail.magelangkota.go.id,Unidentified / Self-hosted,False,False,,False,Confirmed,dkim,True,reject,quarantine,2,Partial
+pekalongankota.go.id,government,mx-1.mail.go.id; mx-2.mail.go.id; mx-3.mail.go.id; mx-4.mail.go.id,Unidentified / Self-hosted,True,True,4,False,Inconclusive,,True,none,,3,Authenticated
+salatiga.go.id,government,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,4,False,Confirmed,google,True,none,,3,Authenticated
+semarangkota.go.id,government,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,quarantine,,4,Enforced
+surakarta.go.id,government,surat-el.surakarta.go.id,Unidentified / Self-hosted,True,True,2,False,Confirmed,default,True,none,,3,Authenticated
+tegalkota.go.id,government,tegalkota-go-id.p10.mxthunder.com; tegalkota-go-id.p20.mxthunder.net; tegalkota-go-id.p30.mxthunder.net; tegalkota-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,True,4,False,Inconclusive,,True,none,,3,Authenticated
+bandungkab.go.id,government,mx-1.mail.go.id; mx-2.mail.go.id; mx-3.mail.go.id; mx-4.mail.go.id,Unidentified / Self-hosted,True,True,4,False,Confirmed,default,True,none,,3,Authenticated
+bandungbaratkab.go.id,government,mail.bandungbaratkab.go.id,Unidentified / Self-hosted,True,True,10,False,Inconclusive,,True,quarantine,none,3,Authenticated
+bekasikab.go.id,government,mail.bekasikab.go.id; smtp.google.com.bekasikab.go.id,Unidentified / Self-hosted,True,True,8,False,Confirmed,default,True,quarantine,quarantine,4,Enforced
+bogorkab.go.id,government,mailgw.bogorkab.go.id; mail.bogorkab.go.id; mail2.bogorkab.go.id,Unidentified / Self-hosted,True,True,5,False,Confirmed,dkim,True,reject,reject,5,Strong Enforcement
+ciamiskab.go.id,government,mail.ciamiskab.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,none,,3,Authenticated
+surabaya.go.id,government,mail.surabaya.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,quarantine,quarantine,4,Enforced
+bandung.go.id,government,bandung-go-id.p10.mxthunder.com; bandung-go-id.p20.mxthunder.net; bandung-go-id.p30.mxthunder.net; bandung-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,True,4,False,Confirmed,default,True,quarantine,,4,Enforced
+medan.go.id,government,mail.medan.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,none,,3,Authenticated
+makassar.go.id,government,mail.makassarkota.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,dkim,True,quarantine,,4,Enforced
+palembang.go.id,government,mails.palembang.go.id,Unidentified / Self-hosted,True,True,3,False,Confirmed,default,True,reject,reject,5,Strong Enforcement
+depok.go.id,government,depok-go-id.p10.mxthunder.com; depok-go-id.p20.mxthunder.net; depok-go-id.p30.mxthunder.net; depok-go-id.p40.mxthunder.net,Unidentified / Self-hosted,True,True,5,False,Confirmed,default,True,reject,,5,Strong Enforcement
+batam.go.id,government,email.batam.go.id; mail.batam.go.id,Unidentified / Self-hosted,True,True,2,False,Confirmed,dkim,True,reject,none,3,Authenticated
+pekanbaru.go.id,government,mail.pekanbaru.go.id,Unidentified / Self-hosted,True,True,1,False,Confirmed,default,False,,,2,Partial
+padang.go.id,government,pmg.padang.go.id,Unidentified / Self-hosted,True,True,0,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+balikpapan.go.id,government,gate.balikpapan.go.id; smtp.balikpapan.go.id; mx1.balikpapan.go.id,Unidentified / Self-hosted,True,True,2,False,Inconclusive,,True,quarantine,quarantine,3,Authenticated
+ui.ac.id,university,alligator.ui.ac.id; iguana.ui.ac.id,Unidentified / Self-hosted,True,True,6,False,Confirmed,google,True,quarantine,none,4,Enforced
+itb.ac.id,university,itb-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,7,False,Confirmed,selector1,True,quarantine,,4,Enforced
+ugm.ac.id,university,smtp.google.com,Google Workspace,True,True,5,False,Confirmed,selector1,True,reject,,5,Strong Enforcement
+ipb.ac.id,university,ipb-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+its.ac.id,university,its-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,5,False,Confirmed,default,True,quarantine,,4,Enforced
+unpad.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,9,False,Confirmed,k1,False,,,2,Partial
+unair.ac.id,university,ibox.unair.ac.id,Unidentified / Self-hosted,True,True,2,False,Inconclusive,,True,none,,3,Authenticated
+undip.ac.id,university,undip-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,1,False,Confirmed,selector1,True,quarantine,,4,Enforced
+usu.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,quarantine,,4,Enforced
+unand.ac.id,university,unand-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,1,False,Confirmed,k1,True,none,,3,Authenticated
+unsri.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+unhas.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,2,False,Confirmed,google,True,reject,,5,Strong Enforcement
+unri.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,1,False,Confirmed,google,True,quarantine,,4,Enforced
+uny.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,3,False,Confirmed,google,True,reject,,5,Strong Enforcement
+uns.ac.id,university,mx9.uns.ac.id; mail.uns.ac.id,Unidentified / Self-hosted,True,True,3,False,Confirmed,dkim,True,none,none,3,Authenticated
+unnes.ac.id,university,alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com; _dc-mx.a1282883b4f4.unnes.ac.id; it.unnes.ac.id; staff.unnes.ac.id,Unidentified / Self-hosted,True,True,6,False,Confirmed,google,True,none,quarantine,3,Authenticated
+unesa.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,6,False,Confirmed,google,True,quarantine,quarantine,4,Enforced
+unej.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Not Confirmed,,False,,,1,Basic
+ub.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,reject,,5,Strong Enforcement
+unud.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com,Google Workspace,True,True,5,False,Not Confirmed,,True,none,,2,Partial
+untan.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,quarantine,,4,Enforced
+unmul.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,2,False,Confirmed,google,True,quarantine,,4,Enforced
+unlam.ac.id,university,,No MX / Unidentified,False,False,,False,Inconclusive,,False,,,0,Unprotected
+unsyiah.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+usk.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+unib.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,reject,none,3,Authenticated
+unja.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,0,False,Confirmed,google,True,none,,3,Authenticated
+unimed.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,2,False,Not Confirmed,,False,,,1,Basic
+uinjkt.ac.id,university,uinjkt-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,1,False,Not Confirmed,,True,,,2,Partial
+uin-suka.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,3,False,Not Confirmed,,False,,,1,Basic
+uinsgd.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+uin-malang.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com; aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,2,False,Confirmed,google,True,none,none,3,Authenticated
+polban.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com; aspmx4.googlemail.com; aspmx5.googlemail.com,Google Workspace,True,True,1,False,Confirmed,google,False,,,2,Partial
+polines.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,0,False,Not Confirmed,,False,,,1,Basic
+pnj.ac.id,university,smtp.google.com,Google Workspace,True,True,1,False,Not Confirmed,,True,reject,reject,2,Partial
+polinema.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com; 5tuqmbrknpm5iaawomeveskx4dnfqe4ii3kuo6dgrrqkejsxidkq.mx-verification.google.com,Google Workspace,True,True,2,False,Confirmed,google,True,quarantine,,4,Enforced
+telkomuniversity.ac.id,university,telkomuniversity-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,7,False,Confirmed,google,True,quarantine,,4,Enforced
+binus.ac.id,university,binus-ac-id.mail.eo.outlook.com,Microsoft 365,True,True,3,False,Confirmed,s1,True,none,,3,Authenticated
+trisakti.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+gunadarma.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,reject,,5,Strong Enforcement
+uki.ac.id,university,uki-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,1,False,Not Confirmed,,False,,,1,Basic
+unm.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com; ms99328535.msv1.invalid.outlook.com,Microsoft 365,False,False,,False,Not Confirmed,,False,,,0,Unprotected
+unp.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,1,False,Not Confirmed,,False,,,1,Basic
+ung.ac.id,university,aspmx.l.google.com; ms49957992.msv1.invalid.outlook.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com; aspmx4.googlemail.com; aspmx5.googlemail.com,Google Workspace,True,True,1,False,Confirmed,google,False,,,2,Partial
+untad.ac.id,university,untad-ac-id.mail.protection.outlook.com; smtp.google.com,Google Workspace,True,True,2,False,Confirmed,google,False,,,2,Partial
+uncen.ac.id,university,smtp.google.com,Google Workspace,True,True,0,False,Confirmed,google,True,reject,quarantine,5,Strong Enforcement
+upnyk.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com; aspmx2.googlemail.com,Google Workspace,True,True,1,False,Confirmed,default,False,,,2,Partial
+uad.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com; mail.uad.ac.id,Unidentified / Self-hosted,True,True,2,False,Confirmed,google,True,quarantine,,4,Enforced
+umy.ac.id,university,umy-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,1,False,Confirmed,selector1,True,quarantine,,4,Enforced
+ums.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,4,False,Confirmed,google,True,reject,reject,5,Strong Enforcement
+unisba.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Not Confirmed,,True,none,,2,Partial
+unpar.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,2,False,Confirmed,google,True,quarantine,,4,Enforced
+atmajaya.ac.id,university,atmajaya-ac-id.mail.protection.outlook.com,Microsoft 365,True,True,2,False,Confirmed,selector1,True,none,,3,Authenticated
+unika.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,0,False,Confirmed,google,False,,,2,Partial
+petra.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,1,False,Confirmed,google,True,none,none,3,Authenticated
+ukdw.ac.id,university,,No MX / Unidentified,True,True,2,False,Inconclusive,,False,,,1,Basic
+del.ac.id,university,mail.del.ac.id,Unidentified / Self-hosted,True,True,3,False,Confirmed,default,True,quarantine,,4,Enforced
+pknstan.ac.id,university,smtp.google.com; aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,False,False,,False,Not Confirmed,,False,,,0,Unprotected
+ipdn.ac.id,university,aspmx.l.google.com,Google Workspace,True,True,4,False,Not Confirmed,,False,,,1,Basic
+malangkota.go.id,government,srv.malangkota.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,reject,,5,Strong Enforcement
+banjarmasinkota.go.id,government,mx-1.mail.go.id; mx-2.mail.go.id; mx-3.mail.go.id; mx-4.mail.go.id; mail.banjarmasinkota.go.id,Unidentified / Self-hosted,True,True,3,False,Inconclusive,,True,none,,3,Authenticated
+manadokota.go.id,government,smtp.google.com,Google Workspace,True,True,1,False,Not Confirmed,,True,none,,2,Partial
+ambon.go.id,government,barracuda-8.noemailspam.net,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,none,,3,Authenticated
+mataramkota.go.id,government,_dc-mx.d7dc29165278.mataramkota.go.id; vps17.mataramkota.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,False,,,2,Partial
+palukota.go.id,government,smtp.palukota.go.id,Unidentified / Self-hosted,True,True,3,False,Inconclusive,,True,none,,3,Authenticated
+kendarikota.go.id,government,mail.kendarikota.go.id,Unidentified / Self-hosted,True,True,2,False,Confirmed,default,True,quarantine,,4,Enforced
+gorontalokota.go.id,government,mx.gorontalokota.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,dkim,True,reject,reject,5,Strong Enforcement
+bengkulukota.go.id,government,mail.bengkulukota.go.id,Unidentified / Self-hosted,True,True,2,False,Confirmed,default,True,quarantine,,4,Enforced
+pontianakkota.go.id,government,,No MX / Unidentified,False,False,,False,Inconclusive,,False,,,0,Unprotected
+jambikota.go.id,government,mail.jambikota.go.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,mail,True,quarantine,none,4,Enforced
+unsoed.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,dkim,False,,,2,Partial
+upnjatim.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com; adhigama.upnjatim.ac.id,Unidentified / Self-hosted,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+upnvj.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+trunojoyo.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,2,False,Confirmed,google,True,reject,reject,5,Strong Enforcement
+unila.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,1,False,Confirmed,google,False,,,2,Partial
+unpatti.ac.id,university,smtp.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,reject,,5,Strong Enforcement
+uho.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,0,False,Confirmed,google,False,,,2,Partial
+unkhair.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com,Google Workspace,False,False,,False,Not Confirmed,,False,,,0,Unprotected
+undiksha.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,2,False,Confirmed,google,True,none,,3,Authenticated
+warmadewa.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com; _dc-mx.44fcdd6395df.warmadewa.ac.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,google,True,none,,3,Authenticated
+unram.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,2,False,Not Confirmed,,True,none,,2,Partial
+undana.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,1,False,Confirmed,default,True,none,,3,Authenticated
+upr.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+ulm.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,4,False,Confirmed,google,True,quarantine,quarantine,4,Enforced
+unmus.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Not Confirmed,,False,,,1,Basic
+uii.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,3,False,Confirmed,google,True,quarantine,,4,Enforced
+esaunggul.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,6,False,Confirmed,default,True,none,,3,Authenticated
+mercubuana.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; mx1.hostinger.com; aspmx2.googlemail.com; aspmx3.googlemail.com; mx2.hostinger.com,Unidentified / Self-hosted,True,True,3,False,Confirmed,google,True,quarantine,,4,Enforced
+budiluhur.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,3,False,Confirmed,google,True,quarantine,,4,Enforced
+pancasila.ac.id,university,,No MX / Unidentified,False,False,,False,Inconclusive,,False,,,0,Unprotected
+yarsi.ac.id,university,smtp.google.com,Google Workspace,True,True,5,False,Confirmed,google,False,,,2,Partial
+ciputra.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com; aspmx4.googlemail.com; aspmx5.googlemail.com,Google Workspace,True,True,3,False,Confirmed,google,True,quarantine,quarantine,4,Enforced
+unmer.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,False,,,2,Partial
+unitomo.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,False,False,,False,Not Confirmed,,False,,,0,Unprotected
+wima.ac.id,university,wima.ac.id,Unidentified / Self-hosted,True,True,0,False,Confirmed,default,True,none,,3,Authenticated
+polije.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,False,,,2,Partial
+polnep.ac.id,university,smtp.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,quarantine,,4,Enforced
+poliban.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Not Confirmed,,True,none,,2,Partial
+polsri.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com; ms19510035.msv1.invalid.outlook.com.polsri.ac.id,Unidentified / Self-hosted,True,True,3,False,Confirmed,google,True,quarantine,quarantine,4,Enforced
+pnp.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Not Confirmed,,True,none,reject,2,Partial
+pnl.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,False,False,,False,Not Confirmed,,False,,,0,Unprotected
+pcr.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,google,True,none,,3,Authenticated
+untirta.ac.id,university,aspmx.l.google.com; smtp.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Not Confirmed,,True,none,,2,Partial
+uinsu.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,False,False,,False,Confirmed,default,False,,,1,Basic
+radenintan.ac.id,university,_dc-mx.cc4d150f8029.radenintan.ac.id; aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,0,False,Confirmed,default,True,none,,3,Authenticated
+uin-suska.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,1,False,Not Confirmed,,False,,,1,Basic
+president.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,4,False,Confirmed,google,True,none,,3,Authenticated
+itenas.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; aspmx2.googlemail.com; aspmx3.googlemail.com,Google Workspace,True,True,1,False,Confirmed,google,True,quarantine,quarantine,4,Enforced
+polnes.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,1,False,Confirmed,default,True,none,,3,Authenticated
+uhamka.ac.id,university,aspmx.l.google.com; alt1.aspmx.l.google.com; alt2.aspmx.l.google.com; alt3.aspmx.l.google.com; alt4.aspmx.l.google.com,Google Workspace,True,True,3,False,Not Confirmed,,True,reject,,2,Partial
+unpas.ac.id,university,aspmx.l.google.com; smtp.google.com; alt1.aspmx.l.google.com,Google Workspace,True,True,1,False,Not Confirmed,,True,none,,2,Partial
